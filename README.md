@@ -2,7 +2,11 @@
 ![mpRFlhRzc7Y](https://github.com/user-attachments/assets/f909ff4e-78b9-475c-8750-98309f8e9c87)
 ![IBdqkkbIMfg](https://github.com/user-attachments/assets/70d518b0-94c1-4237-b75f-43beafcfe472)
 ![IBdqkkbIMfg (2)](https://github.com/user-attachments/assets/7738ae1c-c2e7-4b43-bd90-68b4976108c9)
-![IBdqkkbIMfg (1)](https://github.com/user-attachments/assets/59c0a57d-eb13-4929-9dd5-50b92973ec17)
+![IBdqkkbIMfg (1)](https://github.com/user-attachments/assets/59c0a57d-eb13-4929-9dd5-50b92973ec17)![S2TtqvJk5cf (1)](https://github.com/user-attachments/assets/8129c7b3-b586-4c8b-8b7b-15362510d13f)
+![b808ea7dedf (1)](https://github.com/user-attachments/assets/a3176ede-0d33-476c-864b-a610ec6f3675)
+![b7b5b023bcb (1)](https://github.com/user-attachments/assets/daa27782-533a-491e-95b4-4b9537539d4f)
+![b7b5b023bcb](https://github.com/user-attachments/assets/bd7f08c3-c0a4-49ce-a78d-236c8099e69d)
+
  Hi, I'm Elijah Solomon
 
 I'm a self-taught Flutter developer from Nigeria with a background in Public Health. I specialize in building clean, responsive, and cross-platform mobile apps for Android and iOS.
