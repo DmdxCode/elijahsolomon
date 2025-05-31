@@ -27,7 +27,7 @@ I'm a self-taught Flutter developer from Nigeria with a background in Public Hea
 
 ## 📫 Let's Connect
 
-- Fiverr: [fiverr.com/yourusername](https://fiverr.com/dmdxcode)
+- Fiverr: (https://fiverr.com/dmdxcode)
 - LinkedIn: [linkedin.com/in/elijah-solomon](#)
 - GitHub: [github.com/elijahsolomon](https://github.com/elijahsolomon)
 # elijahsolomon
